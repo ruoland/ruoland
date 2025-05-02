@@ -1,4 +1,4 @@
-## Hi there 👋
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ruoland)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruoland)](https://github.com/anuraghazra/github-readme-stats)
@@ -33,6 +33,15 @@
 - 💻 JAVA, PYTHON, C#을 활용한 다양한 프로젝트 경험
 - 🌱 새로운 기술을 배우고 성장하는 것을 좋아합니다
 
+
+---
+
+## 📫 Contact
+
+- Email: [objectbow@gmail.com]
+- Discord : landland1234
+
+---
 ---
 <!--
 **ruoland/ruoland** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
